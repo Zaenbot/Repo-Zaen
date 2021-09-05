@@ -15,7 +15,7 @@
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Zaen** 🦔
+* **@mafia_tobatZ** 🦔
 [<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
 
   
@@ -50,7 +50,7 @@
 ### AMBIL STRING DI BAWAH INI:
 
 ##
-[![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
+[![RAM-UBOT-STRING](https://replit.com/badge/github/zaenbot/ZAEN-USERBOT)](https://replit.com/zaenbot/ZAEN-USERBOT-STRING)
 ##
 <a href="https://heroku.com/deploy?template=https://github.com/zaenbot/ZAEN-USERBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
@@ -60,7 +60,7 @@
 ## Credit
 TERIMAKASIH UNTUK
 
-*   [VICKY](https://t.me/vckyouubitch) - ⚡Geez-Userbot⚡
-*   [KOALA](https://t.me/manusiarakitann) - KAMPANG BOT
-*   [TEAMULTROID](https://github.com/TeamUltroid) - ULTROID
+*   [Zaen](https://t.me/@mafia_tobatZ) - ⚡Zaen_userbot⚡
+*   [Zaen](https://t.me/@mafia_tobatZ) - Zaen_userbot
+*   [TEAMULTROID](https://github.com/@mafia_tobatZ) - ULTROID
 *    DAN MASIH BANYAK LAGI TOT
