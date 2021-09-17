@@ -50,7 +50,7 @@
 ### AMBIL STRING DI BAWAH INI:
 
 ##
-[![RAM-UBOT-STRING](https://replit.com/badge/github/ZAEN-BOT/ZAEN-USERBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
+[![RAM-UBOT-STRING](https://replit.com/badge/github/ZAEN-BOT/ZAEN-USERBOT)](https://replit.com/ZAEN-BOT/ZAEN-USERBOT-STRING)
 ##
 <a href="https://heroku.com/deploy?template=https://github.com/ZAEN-BOT/ZAEN-USERBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
