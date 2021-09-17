@@ -5,9 +5,9 @@
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/zaen-bot/ZAEN-USERBOT">
-    <img src="https://img.shields.io/github/stars/zaen-bot/ZAEN-USERBOT?style=social">
-  </a>
+  <a href="https://github.com/ZAEN-BOT/ZAEN-USERBOT">
+    <img src="https://img.shields.io/github/stars/ZAEN-BOT/ZAEN-USERBOT?style=social">
+  </a>t
 </p>  
 
 ![VIEWS](https://komarev.com/ghpvc/?username=ZAEN-BOT)
@@ -50,9 +50,9 @@
 ### AMBIL STRING DI BAWAH INI:
 
 ##
-[![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
+[![RAM-UBOT-STRING](https://replit.com/badge/github/ZAEN-BOT/ZAEN-USERBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
 ##
-<a href="https://heroku.com/deploy?template=https://github.com/zaenbot/ZAEN-USERBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
+<a href="https://heroku.com/deploy?template=https://github.com/ZAEN-BOT/ZAEN-USERBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>
